@@ -1,6 +1,3 @@
-
-Detailed
- ==================== 
 Variable,Value,Unit,Category,Channel,Collection,Depth,Distance,Level,Radius,Time,Type,FilamentID,ID,
 Dendrite Area,187.777,um^2,Dendrite,,,0,,1,,1,,100000000,600000000,
 Dendrite Area,73.0151,um^2,Dendrite,,,1,,1,,1,,100000000,600000001,
