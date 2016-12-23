@@ -62,3 +62,12 @@ def genotyping(imageName):
         return 'WT'
     if any(ext in str(imageName) for ext in list_HTZ):
         return 'HTZ'
+
+
+def returnID(imageName, list_ID=list_ID):
+    # depending on imageName string returns the ID string
+    ext = ''
+
+    for ext in list_ID:
+        if ext in str(imageName):
+            return ext
