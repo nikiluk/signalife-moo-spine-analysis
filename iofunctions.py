@@ -64,7 +64,7 @@ def genotyping(imageName):
         return 'HTZ'
 
 
-def returnID(imageName, list_ID=list_ID):
+def returnID(imageName, list_ID):
     # depending on imageName string returns the ID string
     ext = ''
 
